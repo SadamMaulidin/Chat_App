@@ -1,6 +1,8 @@
 # chat_flutter_app
 
-A new Flutter application.
+Aplikasi saingannya whatsapp kayaknya
+
+![screenshot](Screen Shot 2021-02-10 at 10.40.50.png)
 
 ## Getting Started
 
