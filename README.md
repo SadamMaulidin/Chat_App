@@ -2,7 +2,7 @@
 
 Aplikasi saingannya whatsapp kayaknya
 
-![screenshot](Screen Shot 2021-02-10 at 10.40.50.png)
+![screenshot](chat.jpg)
 
 ## Getting Started
 
